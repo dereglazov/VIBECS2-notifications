@@ -1,6 +1,14 @@
 {
     "notifications":  [
                           {
+                              "id":  "aa3a031cc7bc45148056f35dd0979db1",
+                              "type":  "info",
+                              "title":  "Новости VIBECS2 123",
+                              "body":  "123",
+                              "created_at":  "2026-10-20T22:20:56.3321397+00:00",
+                              "expires_at":  "2026-10-21T22:20:56.3321397+00:00"
+                          },
+                          {
                               "id":  "c91d4cf8fbdc46f48ff9bc4023b8252b",
                               "type":  "update",
                               "title":  "Новости VIBECS2",
